@@ -58,5 +58,3 @@ The objective of this project is to showcase real-world data analytics and busin
 - README documentation
 
 ---
-
-Let me know if you’d like to include a preview image or GitHub deployment instructions.
